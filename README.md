@@ -1,12 +1,12 @@
 Hi 👋 My name is Nihal Patel
 ============================
 
-I am a Software Engineering, and I am Looking forward to gaining experience and showing my skills in full-stack development and Web Development.
+I am a Software Engineering.
 
 * 🌍  I'm based in Auckland, New Zealand
 * ✉️  You can contact me at [nkpatel99.nz@gmail.com](mailto:nkpatel99.nz@gmail.com)
-* 🧠  I'm learning PHP
-* 🤝  I'm open to collaborating on Frontend, API projects.
+* 🧠  I'm learning to code :) 
+* 🤝  I'm open to collaborating on Frontend, API backend projects.
 
 ### Skills
 
